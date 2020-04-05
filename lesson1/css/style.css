@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+.red{
+    color: red;
+}
+.ordinary{
+    text-indent: 25pt;
+    width: 550pt;
+    text-align: justify;
+}
+
+.li1 {
+    padding-left: 45px;
+}
+
+.li3 {
+    padding-left: 25px;
+}
+.paragraph{
+    list-style-type:"§  ";
+}
